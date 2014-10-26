@@ -10,3 +10,6 @@ github_username:  dgrotto
 
 # Build settings
 markdown: kramdown
+
+# global site options
+timezone: America/Los_Angeles
