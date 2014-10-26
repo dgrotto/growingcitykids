@@ -2,6 +2,7 @@
 layout: post
 title: "Beginning"
 author: David
+tags: info
 ---
 Today is my fortieth birthday. When my wife asked me today what I wanted to do, I replied "I'd like to work on my motorcycle." This motorcycle is both a thorn in her side and a bit of a joke. I've lugged this beast around from house to house over the years and never had a place to work on it. But the thing is that I really enjoy working with hands and making things...
 
