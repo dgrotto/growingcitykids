@@ -1,0 +1,15 @@
+# Site settings
+title: Growing City Kids
+email: dgrotto@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  My wife thinks that I have something to say as a father of three children. We had the domain growingcitykids.com laying around doing nothing, so here's my attempt at making good on her intuition.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.growingcitykids.com" # the base hostname & protocol for your site
+# twitter_username: jekyllrb
+# github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+
+# global configs
+timezone: America/Los_Angeles
