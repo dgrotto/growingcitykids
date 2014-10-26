@@ -6,10 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.growingcitykids.com" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
-# github_username:  jekyll
+github_username:  dgrotto
 
 # Build settings
 markdown: kramdown
-
-# global configs
-timezone: America/Los_Angeles
