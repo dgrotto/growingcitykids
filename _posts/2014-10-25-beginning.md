@@ -25,6 +25,6 @@ My wife and I have three kids. At the time of this writing, my son is 11, daught
 
 #### All of this is public - please contribute!
 
-Growing City Kids is hosted on [GitHub Pages](https://pages.github.com/) and is completely in the public domain. You can clone the repository, make pull requests, open issues/comments, and anything else that a GitHub git repository supports. One of the things that I hope to instill in my kids is that sharing knowledge makes all of us richer and that everything in life should be version controlled.
+Inquiring Kids is hosted on [GitHub Pages](https://pages.github.com/) and is completely in the public domain. You can clone the repository, make pull requests, open issues/comments, and anything else that a GitHub git repository supports. One of the things that I hope to instill in my kids is that sharing knowledge makes all of us richer and that everything in life should be version controlled.
 
 The blog is written using [Jekyll](http://jekyllrb.com/) and [Atom](https://atom.io/).
