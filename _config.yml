@@ -1,8 +1,8 @@
 # Site settings
 title: Inquiring Kids
-email: dgrotto@gmail.com
+email: inquiringkids@dgrotto.com
 description: > # this means to ignore newlines until "baseurl:"
-  My wife thinks that I have something to say as a father of three children. Thi is my attempt at making good on her intuition.
+  My wife thinks that I have something to say as a father of three children. This is my attempt at making good on her intuition.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://inquiringkids.dgrotto.com" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
