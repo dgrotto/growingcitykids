@@ -3,7 +3,7 @@ title: Inquiring Kids
 email: dgrotto@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   My wife thinks that I have something to say as a father of three children. Thi is my attempt at making good on her intuition.
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/inquiringkids/" # the subpath of your site, e.g. /blog/
 url: "http://inquiringkids.dgrotto.com" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 github_username:  dgrotto
