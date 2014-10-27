@@ -4,7 +4,7 @@ title: "Beginning"
 author: David
 tags: info
 ---
-Today is my fortieth birthday. When my wife asked me today what I wanted to do, I replied "I'd like to work on my motorcycle." This motorcycle is both a thorn in her side and a bit of a joke. I've lugged this beast around from house to house over the years and never had a place to work on it. But the thing is that I really enjoy working with hands and making things...
+Today is my fortieth birthday. When my wife asked me today what I wanted to do, I replied "I'd like to work on my motorcycle." This motorcycle is both a thorn in her side and a bit of a joke. I've lugged this beast around from house to house over the years and never had a place to work on it. But the thing is that I really enjoy working with my hands and making things...
 
 Living in the city can make this type of unremarkable activity challenging: I don't have a garage (the bike was actually towed once as a derelict vehicle when I worked on it in the street), the bike is stored where my tools aren't, and it's not a simple task to coordinate everyone's schedule to allow me to work on it elsewhere.
 
@@ -18,7 +18,7 @@ A few quick notes on personnel and tools:
 
 #### I'm your host, David
 
-I'm a technologist by trade, but I don't specialize in anything in particular. I'm not "classical" trained and I am certainly not a programmer or software engineer. My dad put himself through college as a car mechanic, so I have a bit of an advantage over those without direct exposure to those kinds of things. I love all things marine, especially knots.
+I'm a technologist by trade, but I don't specialize in anything in particular. I'm not "classically" trained and I am certainly not a programmer or software engineer. My dad put himself through college as a car mechanic, so I have a bit of an advantage over those without direct exposure to those kinds of things. I love all things marine, especially knots.
 
 #### We're a family of five
 
@@ -26,6 +26,6 @@ My wife and I have three kids. At the time of this writing, my son is 11, daught
 
 #### All of this is public - [please contribute!](https://github.com/dgrotto/kids)
 
-Inquiring Kids is hosted on [GitHub Pages](https://pages.github.com/) and is completely in the public domain. You can clone the repository, make pull requests, open issues/comments, and anything else that a [GitHub git repository](https://github.com/dgrotto/kids) supports. One of the things that I hope to instill in my kids is that sharing knowledge makes all of us richer and that everything in life should be version controlled.
+MNPTIU is hosted on [GitHub Pages](https://pages.github.com/) and is completely in the public domain. You can clone the repository, make pull requests, open issues/comments, and anything else that a [GitHub git repository](https://github.com/dgrotto/kids) supports. One of the things that I hope to instill in my kids is that sharing knowledge makes all of us richer and that everything in life should be version controlled.
 
 The blog is written using [Jekyll](http://jekyllrb.com/) and [Atom](https://atom.io/).
