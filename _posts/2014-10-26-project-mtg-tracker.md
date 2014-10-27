@@ -5,7 +5,7 @@ title: "Project: MTG Tracker"
 tags: projects
 ---
 ## The idea
-Yesterday we started on a new project - MTG Tracker. My son is a *huge* fan of [Magic the Gathering][mtg]. What I love about MTG is that he has to be enage in meatspace to play it. Too many of the games he is interested in right now are video-only.
+Yesterday we started on a new project - MTG Tracker. My son is a *huge* fan of [Magic the Gathering][mtg]. What I love about MTG is that he has to be engaged in meatspace to play it. Too many of the games he is interested in right now are video-only.
 
 What I dislike about MTG is the investment in learning and memorizing every detail of every card available. Don't get me wrong - this aspect of the game is extremely appealing to an 11 year old. I think that my brain is old and leaky enough now that rote memorization is not an interesting prospect.
 
