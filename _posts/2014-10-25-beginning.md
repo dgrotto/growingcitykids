@@ -24,8 +24,8 @@ I'm a technologist by trade, but I don't specialize in anything in particular. I
 
 My wife and I have three kids. At the time of this writing, my son is 11, daughter number one is 9, and daughter number two is 4.
 
-#### All of this is public - please contribute!
+#### All of this is public - [please contribute!](https://github.com/dgrotto/kids)
 
-Inquiring Kids is hosted on [GitHub Pages](https://pages.github.com/) and is completely in the public domain. You can clone the repository, make pull requests, open issues/comments, and anything else that a GitHub git repository supports. One of the things that I hope to instill in my kids is that sharing knowledge makes all of us richer and that everything in life should be version controlled.
+Inquiring Kids is hosted on [GitHub Pages](https://pages.github.com/) and is completely in the public domain. You can clone the repository, make pull requests, open issues/comments, and anything else that a [GitHub git repository](https://github.com/dgrotto/kids) supports. One of the things that I hope to instill in my kids is that sharing knowledge makes all of us richer and that everything in life should be version controlled.
 
 The blog is written using [Jekyll](http://jekyllrb.com/) and [Atom](https://atom.io/).
