@@ -1,4 +1,4 @@
-Growing City Kids
+My New Parenting Technique Is Unstoppable
 ===============
 My wife thinks that I have something to say as a father of three children. I had the domain [dgrotto.com](http://www.dgrotto.com/) laying around doing nothing, so here's my attempt at making good on her intuition.
 
